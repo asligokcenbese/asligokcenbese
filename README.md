@@ -2,8 +2,6 @@
 
 <!--
 **asligokcenbese/asligokcenbese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 I was born in Erzurum .
 I was graduated from Bilkent Erzurum Laboratory Schools.
 - 🔭 I’m currently a student.
@@ -11,4 +9,4 @@ I was graduated from Bilkent Erzurum Laboratory Schools.
 - My hobbies are: playing classical guitar, reading books, skiing and playing basketball.
 - 📫 How to reach me: gokcen.bese@ug.bilkent.edu.tr is my e-mail address that you can reach me.
 Fun Fact: I always wanted to be an actress.
---> I'm a freshman at Bilkent University in Computer Sciences department.
+- I'm a freshman at Bilkent University in Computer Sciences department.
